@@ -1,3 +1,12 @@
+# Netflix-clone
+## created using Reactjs
+
+![](images/netflixhome.PNG)
+
+## project still under construction
+
+![](images/netflixmovies.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
