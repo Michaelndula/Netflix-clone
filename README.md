@@ -1,7 +1,7 @@
 # Netflix-clone
 ## created using Reactjs
 
-![](images/netflixhome.PNG)
+![] (images/netflixhome.PNG)
 
 ## project still under construction
 
