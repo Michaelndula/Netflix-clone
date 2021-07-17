@@ -1,11 +1,11 @@
 # Netflix-clone
 ## created using Reactjs
 
-![] (images/netflixhome.PNG)
+![](public/images/netflixhome.PNG)
 
 ## project still under construction
 
-![](images/netflixmovies.PNG)
+![](public/images/netflixmovies.PNG)
 
 # Getting Started with Create React App
 
